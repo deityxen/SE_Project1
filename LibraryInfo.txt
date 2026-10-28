@@ -1,6 +1,6 @@
 Student ID: 24-57389-2
 Name: Abrar
-Department: Software Engineering
+Department:CSE
 
 Library Book Records:
 1. Introduction to Software Engineering
