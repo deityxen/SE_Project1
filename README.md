@@ -1,2 +1,5 @@
 # SE_Project1
-a Library Management System
+
+**Name:** Abrar  
+**Student ID:** 24-57389-2  
+**Date:** 2026-10-28
